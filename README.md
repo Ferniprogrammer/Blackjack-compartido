@@ -3,6 +3,7 @@
 **_¿Qué hace el proyecto?_**
 
 En este proyecto buscamos la recreación del clasico juego del blackjack para comprender y usar las listas y diccionarios.
+
 **_¿Por qué el proyecto es útil?_**
 
 El proyecto es útil ya que permite practicar y jugar el juego del Black Jack.
